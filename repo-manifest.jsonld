@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/samuelcolvin/harrier/commit/dde44eef0fc5aa84e874e49bee25f9cf9ace8269",
       "git:hexsha": "dde44eef0fc5aa84e874e49bee25f9cf9ace8269",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "v0.13.2"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v0.13.2",
+      "repolex:parsedAt": "2026-10-11T21:54:32.585144+00:00"
     },
     {
       "@id": "https://repolex.ai/r/samuelcolvin/harrier/commit/8eb8f4512227a3eda9986c763542156a5b8aac9d",
